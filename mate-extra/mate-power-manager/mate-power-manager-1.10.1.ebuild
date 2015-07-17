@@ -34,7 +34,7 @@ COMMON_DEPEND="app-text/rarian:0
 	>=media-libs/libcanberra-0.10:0[gtk]
         )
         gtk3? ( >=x11-libs/gtk+-3.0:3 
-        >=media-libs/libcanderra-0.10:0[gtk3]
+        >=media-libs/libcanberra-0.10:0[gtk3]
         unique? ( dev-libs/libunique:3 ) 
         )
 	x11-libs/libX11:0
