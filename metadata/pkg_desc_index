@@ -1,0 +1,110 @@
+app-arch/engrampa 1.10.1: Engrampa archive manager for MATE
+app-editors/pluma 1.10.2: Pluma text editor for the MATE desktop
+app-emulation/genymotion 9999: Genymotion Emulator
+app-emulation/virtualbox 4.3.12: Family of powerful x86 virtualization products for enterprise as well as home use
+app-emulation/virtualbox-additions 4.3.12: CD image containing guest additions for VirtualBox
+app-emulation/virtualbox-bin 4.3.12.93733: Family of powerful x86 virtualization products for enterprise as well as home use
+app-emulation/virtualbox-extpack-oracle 4.3.12.93733: PUEL extensions for VirtualBox
+app-emulation/virtualbox-modules 4.3.12: Kernel Modules for Virtualbox
+app-emulation/vmware-modules 304.1: VMware kernel modules
+app-emulation/vmware-player 7.1.2.2780323: Emulate a complete PC on your PC without the usual performance overhead of most emulators
+app-emulation/vmware-tools 9.9.3.2780323: VMware Tools for guest operating systems
+app-emulation/vmware-workstation 11.1.2.2780323: Emulate a complete PC on your PC without the usual performance overhead of most emulators
+app-misc/subsurface 4.4.2 9999-r9999: An open source dive log program
+app-text/atril 1.10.1: Atril document viewer for MATE
+dev-libs/glib 2.45.4: The GLib library of C routines
+dev-libs/libmateweather 1.10.0: MATE library to access weather information from online services
+dev-libs/libressl 2.2.1: Free version of the SSL/TLS protocol forked from OpenSSL
+dev-libs/wayland 1.8.1: Wayland protocol libraries
+dev-libs/weston 1.8.0: Wayland reference compositor
+dev-python/python-caja 1.10.0: Python bindings for the Caja file manager
+dev-util/android-sdk-update-manager 24.3.3: Open Handset Alliance's Android SDK
+dev-util/android-studio 1.3.0.9.141.2112779: A new Android development environment based on IntelliJ IDEA
+dev-util/bluej 3.1.5: An integrated Java environment for introductory teaching
+dev-util/eclipse-cpp-bin 3.6.2 3.7.2 4.2.2 4.3.2 4.4.0 4.4.1 4.4.2 4.5.0: Eclipse IDE for C/C++
+dev-util/eclipse-jee-bin 3.6.2 3.7.2 4.2.2 4.3.2 4.3.2-r1 4.4.0 4.4.1 4.4.2 4.5.0: Eclipse IDE for Java EE Developers
+dev-util/eclipse-jse-bin 4.3.2-r1 4.4.0 4.4.2: Eclipse for Java SE Developers
+dev-util/eclipse-jse-bin 3.6.2 3.7.2 4.2.2 4.3.2 4.4.1 4.5.0: Eclipse IDE for Java SE Developers
+dev-util/gdbus-codegen 2.45.4: GDBus code and documentation generator
+dev-util/idea-community 14.1.4.141.1532.4 15.0.0.142.3371.3: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
+dev-util/idea-ultimate 14.1.4.141.1532.4 15.0.0.142.3371.3: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
+dev-util/plasmate 9999: IDE for writing KDE Plasma/KWin components (themes, Plasmoids, runners, data engines)
+dev-util/pycharm-community 4.5.3: PyCharm
+dev-util/pycharm-professional 4.5.3: PyCharm
+games-engines/stratagus 2.3.0: A realtime strategy game engine
+games-strategy/wargus 2.3.0: Warcraft II for the Stratagus game engine
+gnome-extra/cinnamon 2.6.12 2.6.13: A fork of GNOME Shell with layout similar to GNOME 2
+gnome-extra/cinnamon-translations 2.6.3: Translation data for Cinnamon
+gnome-extra/cjs 2.6.2: Linux Mint's fork of gjs for Cinnamon
+gnome-extra/nemo 2.6.7: A file manager for Cinnamon, forked from Nautilus
+grub2-themes/grub2-matrix-theme 9999: Grub2 matrix theme
+grub2-themes/stylish-dark-theme 9999: Stylish Dark Grub2 Theme
+grub2-themes/tuxkiller-grub2-theme 9999: Tuxkiller V2 Grub2 Theme
+mate-base/caja 1.10.3: Caja file manager for the MATE desktop
+mate-base/libmatekbd 1.10.0: MATE keyboard configuration library
+mate-base/mate 1.10.1: Meta ebuild for MATE, a traditional desktop environment
+mate-base/mate-applets 1.10.3: Applets for the MATE Desktop and Panel
+mate-base/mate-common 1.10.0: Common files for development of MATE packages
+mate-base/mate-control-center 1.10.1: The MATE Desktop configuration tool
+mate-base/mate-desktop 1.10.1: Libraries for the MATE desktop that are not part of the UI
+mate-base/mate-menus 1.10.0: MATE menu system, implementing the F.D.O cross-desktop spec
+mate-base/mate-panel 1.10.1: The MATE panel
+mate-base/mate-session-manager 1.10.2: MATE session manager
+mate-base/mate-settings-daemon 1.10.0: MATE Settings Daemon
+mate-extra/caja-dropbox 1.10.0: Store, Sync and Share Files Online
+mate-extra/caja-extensions 1.10.0: Several Caja extensions
+mate-extra/mate-media 1.10.0: Multimedia related programs for the MATE desktop
+mate-extra/mate-polkit 1.10.0: A MATE specific DBUS session bus service that is used to bring up authentication dialogs
+mate-extra/mate-power-manager 1.10.1: A session daemon for MATE that makes it easy to manage your laptop or desktop system
+mate-extra/mate-screensaver 1.10.2: Replaces xscreensaver, integrating with the MATE desktop
+mate-extra/mate-sensors-applet 1.10.4: MATE panel applet to display readings from hardware sensors
+mate-extra/mate-system-monitor 1.10.1: The MATE System Monitor
+mate-extra/mate-user-guide 1.10.1: MATE user-guide
+mate-extra/mate-user-share 1.10.0: Personal file sharing for the MATE desktop
+mate-extra/mate-utils 1.10.2: Utilities for the MATE desktop
+mate-extra/mintmenu 5.6.4: MintMenu supports filtering, favorites, easy-uninstallation, autosession, and many other features.
+media-gfx/eom 1.10.3: The MATE image viewer
+media-gfx/simple-scan 3.17.3: Simple document scanning utility
+media-libs/libmatemixer 1.10.0: Mixer library for MATE Desktop
+media-libs/mesa 10.5.9999-r1 10.6.9999-r1 9999: OpenGL-like graphic library for Linux
+media-plugins/audacious-plugins 3.5.2 3.6.2 3.7_alpha1: Audacious Player - Your music, your way, no exceptions
+media-sound/audacious 3.5.2 3.6.2 3.7_alpha1: Audacious Player - Your music, your way, no exceptions
+media-sound/banshee 2.9.1: Import, organize, play, and share your music using a simple and powerful interface
+media-video/kazam 1.4.5: A screencasting program created with design in mind
+media-video/lightworks 12.0.2: Lightworks is the fastest, most accessible and focused NLE in the industry
+media-video/vlc 2.1.6: VLC media player - Video player and streamer
+net-analyzer/mate-netspeed 1.10.2: Applet showing network traffic for MATE
+net-im/viber 9999-r9999: Free calls, text and picture sharing with anyone, anywhere!
+net-libs/webkit-gtk 2.9.4: Open source web browser engine
+sys-devel/gcc 6.0.0_alpha20150719: The GNU Compiler Collection
+sys-devel/gcc 9999: Live ebuild for gcc
+sys-kernel/git-sources 9999: Live -git version of the Linux kernel
+sys-kernel/longterm-sources 2.6.32.67: Longterm full sources for the Linux kernel
+sys-kernel/raspberrypi-sources 4.0.9999: Raspberry PI kernel sources
+sys-kernel/rt-sources 4.1.2_p1: Full Linux 4.1 kernel sources with the CONFIG_PREEMPT_RT patch
+sys-power/cpupower 4.0 4.1 4.2_rc3: Shows and sets processor power related values
+www-client/firefox 40.0_beta7: Firefox Web Browser
+www-client/firefox-bin 40.0_beta7: Firefox Web Browser
+www-client/firefox-developer-bin 41.0_alpha2 42.0_alpha1: Firefox Developer Edition
+www-client/tor-browser 4.5.3 5.0_alpha3: The Tor Browser lets you use Tor on Windows, Mac OS X, or Linux without needing to install any software.
+www-client/vivaldi 1.0.219.50-r1: A new browser for our friends
+x11-drivers/nvidia-drivers 340.76-r1: NVIDIA GPUs kernel drivers
+x11-drivers/nvidia-userspace 340.76-r1: NVIDIA X11 userspace libraries and applications
+x11-drivers/xf86-video-virtualbox 4.3.12: VirtualBox video driver
+x11-misc/mate-notification-daemon 1.10.1: MATE Notification daemon
+x11-misc/mozo 1.10.1: Mozo menu editor for MATE
+x11-misc/variety 0.5.3: Wallpaper changer for Linux
+x11-terms/mate-terminal 1.10.1: The MATE Terminal
+x11-themes/bee-cell-icon-theme 9999: Fork dalisha icon theme.
+x11-themes/breezeremix-icon-theme 1.0: Mix of Breeze and FaenzaFlattr icon themes.
+x11-themes/dalisha-icon-theme 9999: Dalisha icon theme.
+x11-themes/faenza-icon-theme 2.0.2: This icon theme is for KDE
+x11-themes/macos-xcursor-theme 0.20: Official icon xcursor theme MacOSX.
+x11-themes/mate-backgrounds 1.10.0: A set of backgrounds packaged with the MATE desktop
+x11-themes/mate-icon-theme 1.10.1: MATE default icon themes
+x11-themes/mate-icon-theme-faenza 1.10.0: Faenza icon theme, that was adapted for MATE desktop
+x11-themes/mate-themes 1.10.2: A set of MATE themes, with sets for users with limited or low vision
+x11-themes/vibrancy-icon-theme 9999: Official icon theme vibrancy.
+x11-wm/enlightenment 0.19.6: Enlightenment window manager (e19)
+x11-wm/enlightenment 9999: Live ebuild for Enlightenment window manager
+x11-wm/marco 1.10.1: MATE default window manager
