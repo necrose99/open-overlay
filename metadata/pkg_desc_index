@@ -1,5 +1,4 @@
 app-arch/engrampa 1.10.1: Engrampa archive manager for MATE
-app-editors/pluma 1.10.2: Pluma text editor for the MATE desktop
 app-emulation/genymotion 9999: Genymotion Emulator
 app-emulation/virtualbox 4.3.12: Family of powerful x86 virtualization products for enterprise as well as home use
 app-emulation/virtualbox-additions 4.3.12: CD image containing guest additions for VirtualBox
