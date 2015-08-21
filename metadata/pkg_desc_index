@@ -83,7 +83,7 @@ sys-kernel/rt-sources 4.1.2_p1: Full Linux 4.1 kernel sources with the CONFIG_PR
 sys-power/cpupower 4.0 4.1 4.2_rc3: Shows and sets processor power related values
 www-client/firefox 40.0_beta7: Firefox Web Browser
 www-client/firefox-bin 40.0_beta7: Firefox Web Browser
-www-client/firefox-developer-bin 41.0_alpha2 42.0_alpha1: Firefox Developer Edition
+www-client/firefox-developer-bin 41.0_alpha2 42.0_alpha2: Firefox Developer Edition
 www-client/tor-browser 4.5.3 5.0_alpha3: The Tor Browser lets you use Tor on Windows, Mac OS X, or Linux without needing to install any software.
 www-client/vivaldi 1.0.219.50-r1: A new browser for our friends
 x11-drivers/nvidia-drivers 340.76-r1: NVIDIA GPUs kernel drivers
