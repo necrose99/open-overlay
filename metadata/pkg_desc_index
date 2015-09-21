@@ -60,7 +60,7 @@ net-misc/haguichi 1.3.0: Haguichi provides a user friendly GUI to control the Ha
 sys-kernel/git-sources 9999: Live -git version of the Linux kernel
 sys-kernel/longterm-sources 2.6.32.67: Longterm full sources for the Linux kernel
 sys-kernel/raspberrypi-sources 4.1.9999: Raspberry PI kernel sources
-sys-power/cpupower 4.2 4.3_rc1: Shows and sets processor power related values
+sys-power/cpupower 4.3_rc2: Shows and sets processor power related values
 www-client/firefox 40.0_beta7: Firefox Web Browser
 www-client/firefox-bin 40.0_beta7: Firefox Web Browser
 www-client/firefox-developer-bin 42.0_alpha2: Firefox Developer Edition
