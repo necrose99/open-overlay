@@ -21,7 +21,7 @@ grub2-themes/stylish-dark-theme 9999: Stylish Dark Grub2 Theme
 grub2-themes/tuxkiller-grub2-theme 9999: Tuxkiller V2 Grub2 Theme
 mate-base/caja 1.10.4: Caja file manager for the MATE desktop
 mate-base/libmatekbd 1.10.0: MATE keyboard configuration library
-mate-base/mate 1.10.1: Meta ebuild for MATE, a traditional desktop environment
+mate-base/mate 1.10.2: Meta ebuild for MATE, a traditional desktop environment
 mate-base/mate-applets 1.10.3: Applets for the MATE Desktop and Panel
 mate-base/mate-common 1.10.0: Common files for development of MATE packages
 mate-base/mate-control-center 1.10.1: The MATE Desktop configuration tool
