@@ -8,23 +8,18 @@ app-emulation/virtualbox-extpack-oracle 4.3.12.93733: PUEL extensions for Virtua
 app-emulation/virtualbox-modules 4.3.12: Kernel Modules for Virtualbox
 app-misc/subsurface 4.4.97 9999-r9999: An open source dive log program
 app-text/atril 1.10.2: Atril document viewer for MATE
-dev-libs/glib 2.45.8: The GLib library of C routines
 dev-libs/libmateweather 1.10.0: MATE library to access weather information from online services
 dev-python/python-caja 1.10.0: Python bindings for the Caja file manager
 dev-util/android-sdk-update-manager 24.3.4: Open Handset Alliance's Android SDK
-dev-util/android-studio 1.4.0.7.141.2262011: A new Android development environment based on IntelliJ IDEA
 dev-util/eclipse-cpp-bin 4.5.0: Eclipse IDE for C/C++
 dev-util/eclipse-jee-bin 4.5.0: Eclipse IDE for Java EE Developers
 dev-util/eclipse-jse-bin 4.5.0: Eclipse IDE for Java SE Developers
-dev-util/gdbus-codegen 2.45.8: GDBus code and documentation generator
-dev-util/idea-community 14.1.4.141.1532.4 142.4859.6: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
-dev-util/idea-ultimate 14.1.4.141.1532.4 142.4859.6: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
 dev-util/pycharm-community 4.5.4: PyCharm
 dev-util/pycharm-professional 4.5.4: PyCharm
 grub2-themes/grub2-matrix-theme 9999: Grub2 matrix theme
 grub2-themes/stylish-dark-theme 9999: Stylish Dark Grub2 Theme
 grub2-themes/tuxkiller-grub2-theme 9999: Tuxkiller V2 Grub2 Theme
-mate-base/caja 1.10.3: Caja file manager for the MATE desktop
+mate-base/caja 1.10.4: Caja file manager for the MATE desktop
 mate-base/libmatekbd 1.10.0: MATE keyboard configuration library
 mate-base/mate 1.10.1: Meta ebuild for MATE, a traditional desktop environment
 mate-base/mate-applets 1.10.3: Applets for the MATE Desktop and Panel
@@ -48,23 +43,23 @@ mate-extra/mate-user-share 1.10.0: Personal file sharing for the MATE desktop
 mate-extra/mate-utils 1.10.3: Utilities for the MATE desktop
 mate-extra/mintmenu 5.6.4: MintMenu supports filtering, favorites, easy-uninstallation, autosession, and many other features.
 media-gfx/eom 1.10.3: The MATE image viewer
-media-gfx/simple-scan 3.17.92: Simple document scanning utility
+media-gfx/simple-scan 3.18.0: Simple document scanning utility
 media-libs/libmatemixer 1.10.0: Mixer library for MATE Desktop
 media-sound/banshee 2.9.1: Import, organize, play, and share your music using a simple and powerful interface
 media-video/kazam 1.4.5: A screencasting program created with design in mind
 media-video/lightworks 12.0.2: Lightworks is the fastest, most accessible and focused NLE in the industry
 net-analyzer/mate-netspeed 1.10.2: Applet showing network traffic for MATE
 net-im/viber 9999-r9999: Free calls, text and picture sharing with anyone, anywhere!
-net-libs/webkit-gtk 2.9.92: Open source web browser engine
+net-libs/webkit-gtk 2.10.0: Open source web browser engine
 net-misc/haguichi 1.3.0: Haguichi provides a user friendly GUI to control the Hamachi client on Linux.
 sys-kernel/git-sources 9999: Live -git version of the Linux kernel
 sys-kernel/longterm-sources 2.6.32.67: Longterm full sources for the Linux kernel
 sys-kernel/raspberrypi-sources 4.1.9999: Raspberry PI kernel sources
 sys-power/cpupower 4.3_rc2: Shows and sets processor power related values
-www-client/firefox 40.0_beta7: Firefox Web Browser
-www-client/firefox-bin 40.0_beta7: Firefox Web Browser
-www-client/firefox-developer-bin 42.0_alpha2: Firefox Developer Edition
-www-client/tor-browser 5.5_alpha2: The Tor Browser lets you use Tor on Windows, Mac OS X, or Linux without needing to install any software.
+www-client/firefox 42.0_beta1: Firefox Web Browser
+www-client/firefox-bin 42.0_beta1: Firefox Web Browser
+www-client/firefox-developer-bin 43.0_alpha2: Firefox Developer Edition
+www-client/tor-browser 5.5_alpha3: The Tor Browser lets you use Tor on Windows, Mac OS X, or Linux without needing to install any software.
 www-client/vivaldi 1.0.219.50-r1: A new browser for our friends
 x11-drivers/xf86-video-virtualbox 4.3.12: VirtualBox video driver
 x11-misc/mate-notification-daemon 1.10.1: MATE Notification daemon
