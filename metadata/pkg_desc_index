@@ -11,9 +11,12 @@ app-text/atril 1.10.2: Atril document viewer for MATE
 dev-libs/libmateweather 1.10.0: MATE library to access weather information from online services
 dev-python/python-caja 1.10.0: Python bindings for the Caja file manager
 dev-util/android-sdk-update-manager 24.3.4: Open Handset Alliance's Android SDK
+dev-util/android-studio 1.4.0.9.141.2279206: A new Android development environment based on IntelliJ IDEA
 dev-util/eclipse-cpp-bin 4.5.0: Eclipse IDE for C/C++
 dev-util/eclipse-jee-bin 4.5.0: Eclipse IDE for Java EE Developers
 dev-util/eclipse-jse-bin 4.5.0: Eclipse IDE for Java SE Developers
+dev-util/idea-community 14.1.5.141.2735.5 142.5047.6: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
+dev-util/idea-ultimate 14.1.5.141.2735.5 142.5047.6: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
 dev-util/pycharm-community 4.5.4: PyCharm
 dev-util/pycharm-professional 4.5.4: PyCharm
 grub2-themes/grub2-matrix-theme 9999: Grub2 matrix theme
