@@ -12,11 +12,11 @@ dev-libs/libmateweather 1.10.0: MATE library to access weather information from 
 dev-python/python-caja 1.10.0: Python bindings for the Caja file manager
 dev-util/android-sdk-update-manager 24.4: Open Handset Alliance's Android SDK
 dev-util/android-studio 1.4.0.10.141.2288178: A new Android development environment based on IntelliJ IDEA
-dev-util/eclipse-cpp-bin 4.5.1: Eclipse IDE for C/C++
-dev-util/eclipse-jee-bin 4.5.1: Eclipse IDE for Java EE Developers
-dev-util/eclipse-jse-bin 4.5.1: Eclipse IDE for Java SE Developers
-dev-util/idea-community 14.1.5.141.2735.5 15.0.0.142.5239.7_p1: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
-dev-util/idea-ultimate 14.1.5.141.2735.5 15.0.0.142.5239.7_p1: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
+dev-util/eclipse-cpp-bin 4.5.1 4.6.0_p1: Eclipse IDE for C/C++
+dev-util/eclipse-jee-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java EE Developers
+dev-util/eclipse-jse-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java SE Developers
+dev-util/idea-community 14.1.5.141.2735.5 15.0.0.143.116.4_p1: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
+dev-util/idea-ultimate 14.1.5.141.2735.5 15.0.0.143.116.4_p1: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
 dev-util/pycharm-community 4.5.4_p1 5.0.0.143.24_p1: PyCharm
 dev-util/pycharm-professional 4.5.4_p1 5.0.0.143.24_p1: PyCharm
 grub2-themes/grub2-matrix-theme 9999: Grub2 matrix theme
