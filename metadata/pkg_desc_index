@@ -17,8 +17,8 @@ dev-util/eclipse-jee-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java EE Developers
 dev-util/eclipse-jse-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java SE Developers
 dev-util/idea-community 14.1.5.141.2735.5 15.0.0.143.116.4_p1: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
 dev-util/idea-ultimate 14.1.5.141.2735.5 15.0.0.143.116.4_p1: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
-dev-util/pycharm-community 4.5.4_p1 5.0.0.143.24_p1: PyCharm
-dev-util/pycharm-professional 4.5.4_p1 5.0.0.143.24_p1: PyCharm
+dev-util/pycharm-community 4.5.4_p1 5.0.0.143.165_p1: PyCharm
+dev-util/pycharm-professional 4.5.4_p1 5.0.0.143.165_p1: PyCharm
 grub2-themes/grub2-matrix-theme 9999: Grub2 matrix theme
 grub2-themes/stylish-dark-theme 9999: Stylish Dark Grub2 Theme
 grub2-themes/tuxkiller-grub2-theme 9999: Tuxkiller V2 Grub2 Theme
