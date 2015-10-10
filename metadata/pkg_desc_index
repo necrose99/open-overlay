@@ -6,7 +6,7 @@ app-emulation/virtualbox-additions 4.3.12: CD image containing guest additions f
 app-emulation/virtualbox-bin 4.3.12.93733: Family of powerful x86 virtualization products for enterprise as well as home use
 app-emulation/virtualbox-extpack-oracle 4.3.12.93733: PUEL extensions for VirtualBox
 app-emulation/virtualbox-modules 4.3.12: Kernel Modules for Virtualbox
-app-misc/subsurface 4.4.97 9999-r9999: An open source dive log program
+app-misc/subsurface 4.4.98 9999-r9999: An open source dive log program
 app-text/atril 1.10.2: Atril document viewer for MATE
 dev-libs/libmateweather 1.10.0: MATE library to access weather information from online services
 dev-python/python-caja 1.10.0: Python bindings for the Caja file manager
