@@ -50,7 +50,7 @@ media-gfx/simple-scan 3.18.0: Simple document scanning utility
 media-libs/libmatemixer 1.10.0: Mixer library for MATE Desktop
 media-sound/banshee 2.9.1: Import, organize, play, and share your music using a simple and powerful interface
 media-video/kazam 1.4.5: A screencasting program created with design in mind
-media-video/lightworks 12.0.2: Lightworks is the fastest, most accessible and focused NLE in the industry
+media-video/lightworks 12.5.0: Lightworks is the fastest, most accessible and focused NLE in the industry
 net-analyzer/mate-netspeed 1.10.2: Applet showing network traffic for MATE
 net-im/viber 9999-r9999: Free calls, text and picture sharing with anyone, anywhere!
 net-libs/webkit-gtk 2.10.0: Open source web browser engine
