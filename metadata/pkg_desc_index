@@ -15,8 +15,8 @@ dev-util/android-studio 1.5.0.0.141.2314126: A new Android development environme
 dev-util/eclipse-cpp-bin 4.5.1 4.6.0_p1: Eclipse IDE for C/C++
 dev-util/eclipse-jee-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java EE Developers
 dev-util/eclipse-jse-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java SE Developers
-dev-util/idea-community 14.1.5.141.2735.5 15.0.0.143.116.4_p1: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
-dev-util/idea-ultimate 14.1.5.141.2735.5 15.0.0.143.116.4_p1: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
+dev-util/idea-community 14.1.5.141.2735.5 15.0.0.143.249.6_p1: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
+dev-util/idea-ultimate 14.1.5.141.2735.5 15.0.0.143.249.6_p1: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
 dev-util/pycharm-community 4.5.4_p1 5.0.0.143.165_p1: PyCharm
 dev-util/pycharm-professional 4.5.4_p1 5.0.0.143.165_p1: PyCharm
 grub2-themes/grub2-matrix-theme 9999: Grub2 matrix theme
@@ -59,8 +59,8 @@ sys-kernel/git-sources 9999: Live -git version of the Linux kernel
 sys-kernel/longterm-sources 2.6.32.68: Longterm full sources for the Linux kernel
 sys-kernel/raspberrypi-sources 4.1.9999: Raspberry PI kernel sources
 sys-power/cpupower 4.3_rc5: Shows and sets processor power related values
-www-client/firefox 42.0_beta6: Firefox Web Browser
-www-client/firefox-bin 42.0_beta6: Firefox Web Browser
+www-client/firefox 42.0_beta7: Firefox Web Browser
+www-client/firefox-bin 42.0_beta7: Firefox Web Browser
 www-client/firefox-developer-bin 43.0_alpha2: Firefox Developer Edition
 www-client/tor-browser 5.5_alpha3: The Tor Browser lets you use Tor on Windows, Mac OS X, or Linux without needing to install any software.
 www-client/vivaldi 1.0.219.50-r1: A new browser for our friends
