@@ -17,8 +17,8 @@ dev-util/eclipse-jee-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java EE Developers
 dev-util/eclipse-jse-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java SE Developers
 dev-util/idea-community 14.1.5.141.2735.5 15.0.0.143.249.6_p1: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
 dev-util/idea-ultimate 14.1.5.141.2735.5 15.0.0.143.249.6_p1: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
-dev-util/pycharm-community 4.5.4_p1 5.0.0.143.165_p1: PyCharm
-dev-util/pycharm-professional 4.5.4_p1 5.0.0.143.165_p1: PyCharm
+dev-util/pycharm-community 4.5.4_p1 5.0.0.143.308_p1: PyCharm
+dev-util/pycharm-professional 4.5.4_p1 5.0.0.143.308_p1: PyCharm
 grub2-themes/grub2-matrix-theme 9999: Grub2 matrix theme
 grub2-themes/stylish-dark-theme 9999: Stylish Dark Grub2 Theme
 grub2-themes/tuxkiller-grub2-theme 9999: Tuxkiller V2 Grub2 Theme
@@ -58,7 +58,7 @@ net-misc/haguichi 1.3.0: Haguichi provides a user friendly GUI to control the Ha
 sys-kernel/git-sources 9999: Live -git version of the Linux kernel
 sys-kernel/longterm-sources 2.6.32.68: Longterm full sources for the Linux kernel
 sys-kernel/raspberrypi-sources 4.1.9999 4.2.9999 4.3.9999: Raspberry PI kernel sources
-sys-power/cpupower 4.3_rc5: Shows and sets processor power related values
+sys-power/cpupower 4.3_rc6: Shows and sets processor power related values
 www-client/firefox 42.0_beta7: Firefox Web Browser
 www-client/firefox-bin 42.0_beta7: Firefox Web Browser
 www-client/firefox-developer-bin 43.0_alpha2: Firefox Developer Edition
