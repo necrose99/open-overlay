@@ -17,6 +17,7 @@ dev-util/eclipse-jee-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java EE Developers
 dev-util/eclipse-jse-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java SE Developers
 dev-util/idea-community 14.1.5.141.2735.5 15.0.0.143.379.11_p1: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
 dev-util/idea-ultimate 14.1.5.141.2735.5 15.0.0.143.379.11_p1: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
+dev-util/kivy-designer 9999: Kivy Designer is Kivy's tool for designing graphical user interfaces (GUIs) from Kivy Widgets.
 dev-util/pycharm-community 4.5.4_p1 5.0.0.143.414_p1: PyCharm
 dev-util/pycharm-professional 4.5.4_p1 5.0.0.143.414_p1: PyCharm
 gnome-extra/cinnamon 2.8.0: A fork of GNOME Shell with layout similar to GNOME 2
