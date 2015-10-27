@@ -86,7 +86,7 @@ x11-themes/macos-xcursor-theme 0.20: Official icon xcursor theme MacOSX.
 x11-themes/mate-backgrounds 1.10.0: A set of backgrounds packaged with the MATE desktop
 x11-themes/mate-icon-theme 1.10.1 1.11.0: MATE default icon themes
 x11-themes/mate-icon-theme-faenza 1.10.0: Faenza icon theme, that was adapted for MATE desktop
-x11-themes/mate-themes 1.10.5: A set of MATE themes, with sets for users with limited or low vision
+x11-themes/mate-themes 1.10.5 1.11.1: A set of MATE themes, with sets for users with limited or low vision
 x11-themes/vibrancy-icon-theme 9999: Official icon theme vibrancy.
-x11-wm/marco 1.10.2 1.11.0: MATE default window manager
+x11-wm/marco 1.10.3 1.11.1: MATE default window manager
 x11-wm/muffin 2.8.1: Compositing window manager forked from Mutter for use with Cinnamon
