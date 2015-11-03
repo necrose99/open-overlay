@@ -15,11 +15,11 @@ dev-util/android-studio 1.5.0.1.141.2343905: A new Android development environme
 dev-util/eclipse-cpp-bin 4.5.1 4.6.0_p1: Eclipse IDE for C/C++
 dev-util/eclipse-jee-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java EE Developers
 dev-util/eclipse-jse-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java SE Developers
-dev-util/idea-community 14.1.5.141.2735.5 15.0.0.143.380.20_p1: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
-dev-util/idea-ultimate 14.1.5.141.2735.5 15.0.0.143.380.20_p1: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
+dev-util/idea-community 15.0.0.143.381.42: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
+dev-util/idea-ultimate 15.0.0.143.381.42: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
 dev-util/kivy-designer 9999: Kivy Designer is Kivy's tool for designing graphical user interfaces (GUIs) from Kivy Widgets.
-dev-util/pycharm-community 4.5.4_p1 5.0.0.143.526_p1: PyCharm
-dev-util/pycharm-professional 4.5.4_p1 5.0.0.143.526_p1: PyCharm
+dev-util/pycharm-community 5.0.0: PyCharm
+dev-util/pycharm-professional 5.0.0: PyCharm
 gnome-extra/cinnamon 2.8.0: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/cinnamon-control-center 2.8.1: Cinnamons's main interface to configure various aspects of the desktop
 gnome-extra/cinnamon-desktop 2.8.0: A collection of libraries and utilites used by Cinnamon
@@ -72,7 +72,7 @@ sys-kernel/raspberrypi-sources 4.1.9999 4.2.9999 4.3.9999: Raspberry PI kernel s
 sys-power/cpupower 4.3: Shows and sets processor power related values
 www-client/firefox 42.0_beta9: Firefox Web Browser
 www-client/firefox-bin 42.0_beta9: Firefox Web Browser
-www-client/firefox-developer-bin 43.0_alpha2: Firefox Developer Edition
+www-client/firefox-developer-bin 44.0_alpha2: Firefox Developer Edition
 www-client/tor-browser 5.5_alpha3: The Tor Browser lets you use Tor on Windows, Mac OS X, or Linux without needing to install any software.
 www-client/vivaldi 1.0.219.50-r1: A new browser for our friends
 x11-drivers/xf86-video-virtualbox 4.3.12: VirtualBox video driver
