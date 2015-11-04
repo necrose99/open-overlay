@@ -70,11 +70,11 @@ sys-kernel/git-sources 9999: Live -git version of the Linux kernel
 sys-kernel/longterm-sources 2.6.32.68: Longterm full sources for the Linux kernel
 sys-kernel/raspberrypi-sources 4.1.9999 4.2.9999 4.3.9999: Raspberry PI kernel sources
 sys-power/cpupower 4.3: Shows and sets processor power related values
-www-client/firefox 42.0_beta9: Firefox Web Browser
-www-client/firefox-bin 42.0_beta9: Firefox Web Browser
+www-client/firefox 43.0_beta1: Firefox Web Browser
+www-client/firefox-bin 43.0_beta1: Firefox Web Browser
 www-client/firefox-developer-bin 44.0_alpha2: Firefox Developer Edition
 www-client/tor-browser 5.5_alpha3: The Tor Browser lets you use Tor on Windows, Mac OS X, or Linux without needing to install any software.
-www-client/vivaldi 1.0.219.50-r1: A new browser for our friends
+www-client/vivaldi 1.0.303.52-r4: A new browser for our friends
 x11-drivers/xf86-video-virtualbox 4.3.12: VirtualBox video driver
 x11-misc/mate-notification-daemon 1.10.2 1.11.0: MATE Notification daemon
 x11-misc/mozo 1.10.1: Mozo menu editor for MATE
