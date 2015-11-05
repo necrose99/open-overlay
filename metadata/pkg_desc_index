@@ -74,7 +74,7 @@ www-client/firefox 43.0_beta1: Firefox Web Browser
 www-client/firefox-bin 43.0_beta1: Firefox Web Browser
 www-client/firefox-developer-bin 44.0_alpha2: Firefox Developer Edition
 www-client/tor-browser 5.5_alpha3: The Tor Browser lets you use Tor on Windows, Mac OS X, or Linux without needing to install any software.
-www-client/vivaldi 1.0.303.52-r4: A new browser for our friends
+www-client/vivaldi 1.0.303.52_p4: A new browser for our friends
 x11-drivers/xf86-video-virtualbox 4.3.12: VirtualBox video driver
 x11-misc/mate-notification-daemon 1.10.2 1.11.0: MATE Notification daemon
 x11-misc/mozo 1.10.1: Mozo menu editor for MATE
