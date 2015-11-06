@@ -58,10 +58,6 @@ DEPEND="${RDEPEND}
 	!<gnome-base/gdm-2.20.4"
 
 src_prepare() {
-	# Add "session saving" button back,
-	# see https://bugzilla.gnome.org/show_bug.cgi?id=575544
-	epatch "${FILESDIR}"/${P}-save-session-ui.patch
-
 	eautoreconf
 	gnome2_src_prepare
 }
@@ -72,7 +68,6 @@ src_configure() {
         use !gtk3 && myconf="${myconf} --with-gtk=2.0"
 	gnome2_src_configure \
 		--docdir="${EPREFIX}/usr/share/doc/${PF}" \
-		--with-default-wm=mate-wm \
 		$(use_enable ipv6) \
 		$(use_with systemd) \
 		$(use_enable upower) \
