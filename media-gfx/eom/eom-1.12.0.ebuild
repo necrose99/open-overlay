@@ -15,7 +15,7 @@ HOMEPAGE="http://mate-desktop.org"
 
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="amd64 ~arm x86"
+KEYWORDS="~amd64 ~arm ~x86"
 
 IUSE="X dbus exif jpeg lcms python svg tiff xmp gtk3"
 
@@ -62,8 +62,8 @@ pkg_setup() {
 
 src_configure() {
         local myconf
-        use gtk3 && myconf="{myconf} --with-gtk=3.0"
-        use !gtk3 && myconf="{myconf} --with-gtk=2.0"
+        use gtk3 && myconf="${myconf} --with-gtk=3.0"
+        use !gtk3 && myconf="${myconf} --with-gtk=2.0"
 	gnome2_src_configure \
 		$(use_enable python) \
 		$(use_with jpeg libjpeg) \
