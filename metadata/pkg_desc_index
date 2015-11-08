@@ -70,6 +70,7 @@ net-libs/webkit-gtk 2.11.1: Open source web browser engine
 sys-kernel/git-sources 9999: Live -git version of the Linux kernel
 sys-kernel/longterm-sources 2.6.32.68: Longterm full sources for the Linux kernel
 sys-kernel/raspberrypi-sources 4.1.9999 4.2.9999 4.3.9999: Raspberry PI kernel sources
+sys-kernel/reiser4-sources 3.19.5 4.1.7 4.2.2: Full sources for the Linux kernel with reiser4 patch
 sys-power/cpupower 4.3: Shows and sets processor power related values
 www-client/firefox 43.0_beta1: Firefox Web Browser
 www-client/firefox-bin 43.0_beta1: Firefox Web Browser
