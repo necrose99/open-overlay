@@ -8,11 +8,13 @@ HOMEPAGE="http://www.alsa-project.org/"
 SRC_URI="mirror://alsaproject/utils/${P}.tar.bz2"
 
 LICENSE="GPL-2"
-SLOT="0.9"
+SLOT="1.1"
 KEYWORDS="~alpha ~amd64 ~arm ~hppa ~ia64 ~mips ~ppc ~ppc64 ~sh ~sparc ~x86"
 IUSE="doc +libsamplerate +ncurses nls selinux"
 
 CDEPEND=">=media-libs/alsa-lib-${PV}
+        sci-libs/fftw:3.0
+        !media-sound/alsa-utils:0.9
 	libsamplerate? ( media-libs/libsamplerate )
 	ncurses? ( >=sys-libs/ncurses-5.7-r7:0= )"
 DEPEND="${CDEPEND}

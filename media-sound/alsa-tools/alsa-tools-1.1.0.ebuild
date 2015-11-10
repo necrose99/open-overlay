@@ -8,7 +8,7 @@ HOMEPAGE="http://www.alsa-project.org/"
 SRC_URI="mirror://alsaproject/tools/${P}.tar.bz2"
 
 LICENSE="GPL-2"
-SLOT="0.9"
+SLOT="1.1"
 KEYWORDS="~amd64 ~mips ~ppc ~ppc64 ~sparc ~x86"
 
 IUSE="fltk gtk alsa_cards_hdsp alsa_cards_hdspm alsa_cards_mixart
@@ -17,6 +17,7 @@ alsa_cards_emu10k1 alsa_cards_emu10k1x alsa_cards_ice1712
 alsa_cards_rme32 alsa_cards_rme96 alsa_cards_sscape alsa_cards_pcxhr"
 
 COMMON_DEPEND=">=media-libs/alsa-lib-${PV}
+        !media-sound/alsa-tools:0.9
 	>=dev-python/pyalsa-1.0.26
 	fltk? ( >=x11-libs/fltk-1.3.0:1 )
 	gtk? (
