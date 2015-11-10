@@ -63,9 +63,9 @@ mate-extra/mintmenu 5.6.4: MintMenu supports filtering, favorites, easy-uninstal
 media-gfx/eom 1.12.0: The MATE image viewer
 media-gfx/simple-scan 3.18.0: Simple document scanning utility
 media-libs/alsa-lib 1.1.0: Advanced Linux Sound Architecture Library
-media-libs/alsa-tools 1.1.0: Advanced Linux Sound Architecture tools
-media-libs/alsa-utils 1.1.0: Advanced Linux Sound Architecture Utils (alsactl, alsamixer, etc.)
 media-libs/libmatemixer 1.12.0: Mixer library for MATE Desktop
+media-sound/alsa-tools 1.1.0: Advanced Linux Sound Architecture tools
+media-sound/alsa-utils 1.1.0: Advanced Linux Sound Architecture Utils (alsactl, alsamixer, etc.)
 media-sound/banshee 2.9.1: Import, organize, play, and share your music using a simple and powerful interface
 media-video/kazam 1.4.5: A screencasting program created with design in mind
 media-video/lightworks 12.5.0: Lightworks is the fastest, most accessible and focused NLE in the industry
