@@ -99,6 +99,6 @@ x11-themes/mate-icon-theme-faenza 1.12.0: Faenza icon theme, that was adapted fo
 x11-themes/mate-themes 1.12.0: A set of MATE themes, with sets for users with limited or low vision
 x11-themes/mint-mdm-themes 9999: Mint Mate Display Manager Themes
 x11-themes/vibrancy-icon-theme 9999: Official icon theme vibrancy.
-x11-wm/clfswm 1212: 100% Common Lisp X11 window manager (based on Tinywm and Stumpwm)
+x11-wm/clfswm 1212 9999: 100% Common Lisp X11 window manager (based on Tinywm and Stumpwm)
 x11-wm/marco 1.12.0: MATE default window manager
 x11-wm/muffin 2.8.2: Compositing window manager forked from Mutter for use with Cinnamon
