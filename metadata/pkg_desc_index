@@ -81,7 +81,7 @@ www-client/firefox 43.0_beta2: Firefox Web Browser
 www-client/firefox-bin 43.0_beta2: Firefox Web Browser
 www-client/firefox-developer-bin 44.0_alpha2: Firefox Developer Edition
 www-client/tor-browser 5.5_alpha4: The Tor Browser lets you use Tor on Windows, Mac OS X, or Linux without needing to install any software.
-www-client/vivaldi 1.0.303.52_p4: A new browser for our friends
+www-client/vivaldi 1.0.303.52_p5: A new browser for our friends
 x11-base/xorg-drivers 1.18: Meta package containing deps on all xorg drivers
 x11-base/xorg-server 1.18.0: X.Org X servers
 x11-drivers/xf86-video-virtualbox 4.3.12: VirtualBox video driver
