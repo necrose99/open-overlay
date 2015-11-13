@@ -17,12 +17,12 @@ dev-util/android-studio 1.5.0.3.141.2415497: A new Android development environme
 dev-util/eclipse-cpp-bin 4.5.1 4.6.0_p1: Eclipse IDE for C/C++
 dev-util/eclipse-jee-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java EE Developers
 dev-util/eclipse-jse-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java SE Developers
-dev-util/idea-community 15.0.0.143.381.42: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
-dev-util/idea-ultimate 15.0.0.143.381.42: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
+dev-util/idea-community 15.0.1.143.382.35: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
+dev-util/idea-ultimate 15.0.1.143.382.35: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
 dev-util/kivy-designer 9999: Kivy Designer is Kivy's tool for designing graphical user interfaces (GUIs) from Kivy Widgets.
 dev-util/libgdx 1.7.1: Desktop/Android/BlackBerry/iOS/HTML5 Java game development framework
-dev-util/pycharm-community 5.0: PyCharm
-dev-util/pycharm-professional 5.0: PyCharm
+dev-util/pycharm-community 5.0.1: PyCharm
+dev-util/pycharm-professional 5.0.1: PyCharm
 gnome-extra/cinnamon 2.8.4: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/cinnamon-control-center 2.8.1: Cinnamons's main interface to configure various aspects of the desktop
 gnome-extra/cinnamon-desktop 2.8.0: A collection of libraries and utilites used by Cinnamon
@@ -77,8 +77,8 @@ sys-kernel/longterm-sources 2.6.32.68: Longterm full sources for the Linux kerne
 sys-kernel/raspberrypi-sources 4.1.9999 4.2.9999 4.3.9999: Raspberry PI kernel sources
 sys-kernel/reiser4-sources 3.19.5 4.1.7 4.2.2 4.2.3: Full sources for the Linux kernel with reiser4 patch
 sys-power/cpupower 4.3: Shows and sets processor power related values
-www-client/firefox 43.0_beta2: Firefox Web Browser
-www-client/firefox-bin 43.0_beta2: Firefox Web Browser
+www-client/firefox 43.0_beta3: Firefox Web Browser
+www-client/firefox-bin 43.0_beta3: Firefox Web Browser
 www-client/firefox-developer-bin 44.0_alpha2: Firefox Developer Edition
 www-client/tor-browser 5.5_alpha4: The Tor Browser lets you use Tor on Windows, Mac OS X, or Linux without needing to install any software.
 www-client/vivaldi 1.0.303.52_p5: A new browser for our friends
