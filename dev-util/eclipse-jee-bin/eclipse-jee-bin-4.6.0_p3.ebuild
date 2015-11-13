@@ -4,14 +4,13 @@ EAPI=5
 
 inherit eutils versionator
 
-SR=M2
+SR="M3"
 RNAME="neon"
 
-
-DESCRIPTION="Eclipse IDE for Java SE Developers"
+DESCRIPTION="Eclipse IDE for Java EE Developers"
 HOMEPAGE="http://www.eclipse.org"
 
-SRC_BASE="http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/${RNAME}/${SR}/eclipse-java-${RNAME}-${SR}-linux-gtk"
+SRC_BASE="http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/${RNAME}/${SR}/eclipse-jee-${RNAME}-${SR}-linux-gtk"
 
 SRC_URI="
          amd64? ( ${SRC_BASE}-x86_64.tar.gz&r=1 -> ${P}-x86_64.tar.gz )
@@ -29,9 +28,9 @@ RDEPEND="
 S=${WORKDIR}/eclipse
 
 pkg_postinst() {
-         echo 
-         echo "This is Development Version"
-         echo 
+        echo
+        echo "This is Development Version" 
+        echo 
 }
 src_install() {
 	local dest=/opt/${PN}-${SLOT}
