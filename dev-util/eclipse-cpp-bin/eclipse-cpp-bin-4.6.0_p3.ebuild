@@ -4,7 +4,7 @@ EAPI=5
 
 inherit eutils versionator
 
-SR=M2
+SR=M3
 RNAME="neon"
 
 
