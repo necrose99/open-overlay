@@ -14,9 +14,9 @@ dev-libs/libmateweather 1.12.0: MATE library to access weather information from 
 dev-python/python-caja 1.12.0: Python bindings for the Caja file manager
 dev-util/android-sdk-update-manager 24.4.1: Open Handset Alliance's Android SDK
 dev-util/android-studio 1.5.0.3.141.2415497: A new Android development environment based on IntelliJ IDEA
-dev-util/eclipse-cpp-bin 4.5.1 4.6.0_p1: Eclipse IDE for C/C++
-dev-util/eclipse-jee-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java EE Developers
-dev-util/eclipse-jse-bin 4.5.1 4.6.0_p1: Eclipse IDE for Java SE Developers
+dev-util/eclipse-cpp-bin 4.5.1 4.6.0_p3: Eclipse IDE for C/C++
+dev-util/eclipse-jee-bin 4.5.1 4.6.0_p3: Eclipse IDE for Java EE Developers
+dev-util/eclipse-jse-bin 4.5.1 4.6.0_p3: Eclipse IDE for Java SE Developers
 dev-util/idea-community 15.0.1.143.382.35: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
 dev-util/idea-ultimate 15.0.1.143.382.35: IntelliJ IDEA is an intelligent Java IDE (Ultimate Edition)
 dev-util/kivy-designer 9999: Kivy Designer is Kivy's tool for designing graphical user interfaces (GUIs) from Kivy Widgets.
